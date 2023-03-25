@@ -14,27 +14,26 @@ function Home() {
   return (
     <div className="flex flex-col min-h-screen overflow-hidden">
       {/*  Site header */}
-      <Header />
 
       {/*  Page content */}
       <main className="grow">
         {/*  Page illustration */}
-        <div className="relative max-w-6xl mx-auto h-0 pointer-events-none" aria-hidden="true">
+          {/*}   <div className="relative max-w-6xl mx-auto h-0 pointer-events-none" aria-hidden="true">
           <PageIllustration />
-        </div>
+        </div> */}
 
         {/*  Page sections */}
         <HeroHome />
         <FeaturesBlocks />
-        <FeaturesZigZag />
+          {/*} <FeaturesZigZag />
         <Testimonials />
-        <Newsletter />
+        <Newsletter /> */}
       </main>
 
-      <Banner />
+        { /*    <Banner /> */}
 
       {/*  Site footer */}
-      <Footer />
+        {/*} <Footer /> */}
     </div>
   );
 }
