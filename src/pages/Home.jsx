@@ -13,7 +13,7 @@ import Footer from '../partials/Footer';
 function Home() {
   return (
     <div className="flex flex-col min-h-screen overflow-hidden">
-      {/*  Site header */}
+      {/*  Site header */}npm ci
 
       {/*  Page content */}
       <main className="grow">
