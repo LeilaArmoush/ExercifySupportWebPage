@@ -58,7 +58,7 @@ function FeaturesBlocks() {
                   </g>
                 </svg>
                 <h4 className="h4 mb-2">Voice Notifications</h4>
-                <p className="text-lg text-gray-400 text-center">No need to check your device for the start or end of an interval section, you can hear the voice command countdown to the end of the interval, or simply wait for the new track to start playing with the right tempo for the effor level</p>
+                <p className="text-lg text-gray-400 text-center">No need to check your device for the start or end of an interval section, you can hear the voice command countdown to the end of the interval, or simply wait for the new track to start playing with the right tempo for the effort level</p>
               </div>
 
               {/* 5th item */}
@@ -85,7 +85,7 @@ function FeaturesBlocks() {
                   </g>
                 </svg>
                 <h4 className="h4 mb-2">Spotify premium users only</h4>
-                <p className="text-lg text-gray-400 text-center">This app is only avaliable for spotify premium users. Spotify Premium lets you play any track, ad-free and with better audio quality. Go to spotify.com/premium to try it for free.</p>
+                <p className="text-lg text-gray-400 text-center">This app is only available for spotify premium users. Spotify Premium lets you play any track, ad-free and with better audio quality. Go to spotify.com/premium to try it for free.</p>
               </div>
             </div>
             </div>
